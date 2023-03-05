@@ -1,6 +1,6 @@
 import { Avatar, AvatarGroup, Box, Divider, ImageList, ImageListItem, List, ListItem, ListItemAvatar, ListItemText, Typography } from '@mui/material'
 import React from 'react'
-import img from "../photo-1571863533956-01c88e79957e.avif";
+import img from "../wallpaper.jpg";
 import img1 from "../walp.jpg";
 import img2 from "../walp1.jpg";
 
