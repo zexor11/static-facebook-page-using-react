@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+It is a static facebook page made using react and material-ui.
+This page has both light mode and dark mode.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
